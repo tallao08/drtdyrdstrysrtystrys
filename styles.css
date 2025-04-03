@@ -9,7 +9,7 @@
 }
 
 body {
-    font-size: 5em;
+    font-size: 2rem;
     font-family: 'Montserrat';
 }
 
@@ -46,7 +46,7 @@ section {
     position: absolute;
     right: 0;
     top: 18rem;
-    width: 45rem;
+    width: 20rem;
     height: auto;
 }
 
